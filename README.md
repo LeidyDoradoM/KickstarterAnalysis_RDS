@@ -11,4 +11,4 @@ The following charts show how successful the campaigns are depending on the date
 
 And the type of category to which each campaign belongs to
 ![Figure 2](https://raw.githubusercontent.com/LeidyDoradoM/KickstarterAnalysis_RDS/master/ParentOutcomes_Crowdfunding.png)
-*Figure 2: Outcomes for Parent Category*.
+*Figure 2: Outcomes for Parent Category*
